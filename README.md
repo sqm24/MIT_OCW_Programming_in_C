@@ -1,0 +1,1 @@
+This is a collection of the notes, assignments, labs, and any other documents I gathered or wrote while I took this class. The class can be found here: https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/resources/mit6_087iap10_lec01/
